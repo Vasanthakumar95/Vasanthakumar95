@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
 </div>
@@ -47,32 +47,24 @@ I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2Oc
 ---
 
 ### :fire: My Stats :
+<br>
+<p align=center>
+  <div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&theme=calm&hide_border=true" />
+  </a> 
+ </div>
+ <br>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm" alt="Vasanthakumar95" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=calm&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Vasanthakumar95&theme=one-dark&hide_border=true" width="100%"/>
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**Vasanthakumar95/Vasanthakumar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
--->
+---
