@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,26 +6,51 @@
 </h1>
 
 <div id="header" align="center">
+  <h1 align="center">
+   :technologist: About Me :
+  </h1> 
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+  <br>
+  <b align="center">
+   :technologist: About Me :
+  </b>  
+    I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> from Malaysia.
+    <br>
+    <h4>
+      :mailbox:How to reach me: <br>
+    </h4>
+  </p>
 </div>
 
 <div id="badges", align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+   <a href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
+      <img width=200 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
+      <img width=200 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a> 
+  <a>
+      <img width=135 align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthakumar95" />
+  </a> 
 </div>
 
----
+<!-- <div id="header" align="center">
+ <h1 align="center">
+   :technologist: About Me :
+  </h1>  
+  <h3 align="center">
+    I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> from Malaysia.
+    <br>
+    <p>
+      :mailbox:How to reach me: <br>
+    </p>
+  </h3>
+</div>
+<br> -->
 
-### :technologist: About Me :
+<!-- ### :technologist: About Me :
 I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> from Malaysia.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/) -->
 
 ---
 
