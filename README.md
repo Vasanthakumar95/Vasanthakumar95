@@ -3,22 +3,18 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Vasant....;Nice+to+meet+you!&center=true&size=30">
   </a>
+  <br>
+  :technologist: About Me :
 </h1>
 
 <div id="header" align="center">
-  <h1 align="center">
-   :technologist: About Me :
-  </h1> 
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+  <br> 
+   - I am a Native <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> Developer from Malaysia.
   <br>
-  <b align="center">
-   :technologist: About Me :
-  </b>  
-    I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> from Malaysia.
-    <br>
-    <h4>
+    <h3>
       :mailbox:How to reach me: <br>
-    </h4>
+    </h3>
   </p>
 </div>
 
@@ -34,28 +30,13 @@
   </a> 
 </div>
 
-<!-- <div id="header" align="center">
- <h1 align="center">
-   :technologist: About Me :
-  </h1>  
-  <h3 align="center">
-    I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> from Malaysia.
-    <br>
-    <p>
-      :mailbox:How to reach me: <br>
-    </p>
-  </h3>
-</div>
-<br> -->
-
-<!-- ### :technologist: About Me :
-I am a Native Android Developer <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> from Malaysia.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/) -->
-
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<h1 align="center">
+  :hammer_and_wrench: Languages and Tools :
+</h1>
+<br>
+<div id="tools", align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
