@@ -58,7 +58,7 @@
 ---
 
 <h1 align="center">
-  :fire: My Stats :
+  :fire: My Stats:
 </h1>
 <br>
 <p align=center>
