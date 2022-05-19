@@ -52,7 +52,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCI" alt="CircleCI" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="80" height="80"/>&nbsp;
   <br>
-  height="80"/>&nbsp;
 </div>
 
 ---
