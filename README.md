@@ -19,16 +19,16 @@
 </div>
 
 <div id="badges", align="center">
-   <a href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
+   <a target="_blank" href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
       <img height=30 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a> 
-  <a href="mailto:work@vasan.dev">
+  <a target="_blank" href="mailto:work@vasan.dev">
       <img height=30 align="center" src="https://img.shields.io/badge/-mail-blue?style=flat&logo=gmail&logoColor=white" />
   </a> 
-  <a href="https://t.me/VA54NT">
+  <a target="_blank" href="https://t.me/VA54NT">
       <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Telegram&logoColor=white" />
   </a> 
-  <a href="https://twitter.com/nsfwggwp">
+  <a target="_blank" href="https://twitter.com/nsfwggwp">
       <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Twitter&logoColor=white" />
   </a> 
   <a>
