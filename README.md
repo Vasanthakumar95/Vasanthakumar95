@@ -20,14 +20,17 @@
 
 <div id="badges", align="center">
    <a href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
-      <img width=200 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
+      <img height=30 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a> 
-  <a href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
-      <img width=200 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
+  <a href="mailto:work@vasan.dev">
+      <img height=30 align="center" src="https://img.shields.io/badge/-mail-blue?style=flat&logo=gmail&logoColor=white" />
+  </a> 
+  <a href="https://t.me/VA54NT">
+      <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Telegram&logoColor=white" />
   </a> 
   <a>
-      <img width=135 align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthakumar95" />
-  </a> 
+      <img height=30 align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthakumar95" />
+  </a>
 </div>
 
 ---
