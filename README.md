@@ -70,9 +70,9 @@
 <br>
 <p align=center>
   <div align=center>
-      <img height=115 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&theme=calm&hide_border=true&langs_count=8&layout=compact&hide_border=true"/>
-      <img height=115 src="http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm&hide_border=true"/>
-      <img height=115 src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=calm&hide_border=true" />
+      <img height=117 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&theme=calm&hide_border=true&langs_count=8&layout=compact&hide_border=true"/>
+      <img height=117 src="http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm&hide_border=true"/>
+      <img height=117 src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=calm&hide_border=true" />
  </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Vasanthakumar95&theme=one-dark&hide_border=true" width="100%"/>
