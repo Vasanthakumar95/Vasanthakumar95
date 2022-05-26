@@ -70,20 +70,11 @@
 <br>
 <p align=center>
   <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&theme=calm&hide_border=true" />
-  </a> 
+      <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&theme=calm&hide_border=true&langs_count=8&layout=compact&hide_border=true"/>
+      <img height=139 src="http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm&hide_border=true"/>
+      <img height=139 src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=calm&hide_border=true" />
  </div>
- <br>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm" alt="Vasanthakumar95" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=calm&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
+  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Vasanthakumar95&theme=one-dark&hide_border=true" width="100%"/>
 </p>
 
