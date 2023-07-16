@@ -25,10 +25,10 @@
   <a target="_blank" href="mailto:work@vasan.dev">
       <img height=30 align="center" src="https://img.shields.io/badge/-mail-blue?style=flat&logo=gmail&logoColor=white" />
   </a> 
-  <a target="_blank" href="https://t.me/VA54NT">
+  <a target="_blank" href="https://t.me/vasantrajamanickam">
       <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Telegram&logoColor=white" />
   </a> 
-  <a target="_blank" href="https://twitter.com/nsfwggwp">
+  <a target="_blank" href="https://twitter.com/VKRJMNKM">
       <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Twitter&logoColor=white" />
   </a> 
   <a>
