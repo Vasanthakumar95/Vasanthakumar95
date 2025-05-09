@@ -22,7 +22,7 @@
 - 🏦 Deliver secure, large-scale banking features across web and mobile platforms   
 - 🤝 Collaborate with cross-functional teams 
 - 🚀 Be part of production deployments, including overseas Go-Lives and post-launch support  
-- 👥 Mentor juniors, solve blockers, and champion engineering best practices  
+- 👥 Mentor juniors, solve blockers, and encourage engineering best practices  
 
 ---
 
