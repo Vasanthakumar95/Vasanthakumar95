@@ -1,79 +1,84 @@
+<h1 align="center">Hi there, I'm Vasanthakumar👋</h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Vasant....;Nice+to+meet+you!&center=true&size=30&font=Fira">
-  </a>
-  <br>
-  :technologist: About Me :
-</h1>
+<p align="center">
+  <b>Developer</b><br>
+  <i>Delivering clean, scalable software solutions across banking and tech domains</i>
+</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
-  <br> 
-   - I am a Native <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30"> Developer from Malaysia.
-  <br>
-    <h3>
-      :mailbox:How to reach me: <br>
-    </h3>
-  </p>
-</div>
-
-<div id="badges", align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/vasanthakumar-rajamanickam-068a2b162/">
-      <img height=30 align="center" src="https://img.shields.io/badge/-Vasanthakumar-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a> 
-  <a target="_blank" href="mailto:work@vasan.dev">
-      <img height=30 align="center" src="https://img.shields.io/badge/-mail-blue?style=flat&logo=gmail&logoColor=white" />
-  </a> 
-  <a target="_blank" href="https://t.me/vasantrajamanickam">
-      <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Telegram&logoColor=white" />
-  </a> 
-  <a target="_blank" href="https://twitter.com/VKRJMNKM">
-      <img height=30 align="center" src="https://img.shields.io/badge/-👋-blue?style=flat&logo=Twitter&logoColor=white" />
-  </a> 
-  <a>
-      <img height=30 align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthakumar95" />
-  </a>
-</div>
-
----
-
-<h1 align="center">
-  :hammer_and_wrench: Languages and Tools :
-</h1>
 <br>
-<div id="tools", align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio"width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle " width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCODE" alt="VSCODE" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCI" alt="CircleCI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js"  alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js"  alt="Express.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
- 
-</div>
 
----
-
-<h1 align="center">
-  :fire: My Stats:
-</h1>
-<br>
-<p align=center>
-  <div align=center>
-      <img height=116 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&theme=calm&hide_border=true&langs_count=8&layout=compact&hide_border=true"/>
-      <img height=116 src="http://github-readme-streak-stats.herokuapp.com?user=Vasanthakumar95&theme=calm&hide_border=true"/>
-      <img height=116 src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=calm&hide_border=true" />
- </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Vasanthakumar95&theme=one-dark&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Johor,%20Malaysia-blue" />
+  <a href="mailto:work.vasantrajamanickam@gmail.com"><img src="https://img.shields.io/badge/Email-Click%20to%20Send-informational" /></a>
+  <a href="https://www.linkedin.com/in/vasantrajamanickam/"><img src="https://img.shields.io/badge/LinkedIn-Vasanthakumar-informational?logo=linkedin" /></a>
 </p>
 
 ---
+
+## 💻 What I Do & Build
+
+- 🔧 Develop robust RESTful APIs and frontend features for enterprise-scale systems  
+- 📲 Build and maintain mobile apps (Android/Kotlin)  
+- 🏦 Deliver secure, large-scale banking features across web and mobile platforms   
+- 🤝 Collaborate with cross-functional teams 
+- 🚀 Be part of production deployments, including overseas Go-Lives and post-launch support  
+- 👥 Mentor juniors, solve blockers, and champion engineering best practices  
+
+---
+
+## 📚 Currently Learning
+
+- ⚛️ **Next.js** – Exploring full-stack React with SSR and API routes  
+- 🎨 **Tailwind CSS** – Building sleek UIs with utility-first CSS framework  
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<table>
+<tr>
+  <td><b>Languages</b></td>
+  <td>Kotlin, Java, Python, JavaScript, TypeScript</td>
+</tr>
+<tr>
+  <td><b>Frontend</b></td>
+  <td>HTML, CSS</td>
+</tr>
+<tr>
+  <td><b>Backend</b></td>
+  <td>Node.js, Spring Boot</td>
+</tr>
+<tr>
+  <td><b>Architecture</b></td>
+  <td>MVC, MVVM, SOLID</td>
+</tr>
+<tr>
+  <td><b>Testing</b></td>
+  <td>JUnit, Mockito, Karate</td>
+</tr>
+<tr>
+  <td><b>Databases</b></td>
+  <td>MySQL</td>
+</tr>
+<tr>
+  <td><b>Tools</b></td>
+  <td>Git, Jira, Postman, Android Studio, VS Code</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  🐢 <i>"You must let go of the illusion of control."</i><br>
+  — Master Oogway
+</p>
