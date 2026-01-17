@@ -61,16 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasanthakumar95&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumar95&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   🐢 <i>"You must let go of the illusion of control."</i><br>
   — Master Oogway
