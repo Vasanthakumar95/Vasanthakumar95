@@ -26,13 +26,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-- ⚛️ **Next.js** – Exploring full-stack React with SSR and API routes  
-- 🎨 **Tailwind CSS** – Building sleek UIs with utility-first CSS framework  
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <table>
